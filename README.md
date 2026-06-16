@@ -66,5 +66,5 @@ A data analysis project experimenting netflix's content library using python, pa
 
 Jack Lansley — Computer Science and Artificial Intelligence student at the University of Sussex
 
-Fix those two things, save, then push it.
+
 
